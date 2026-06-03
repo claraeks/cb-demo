@@ -1,6 +1,6 @@
 color_class,color
-primary,
-secondary,
+primary,#FFFFFF
+secondary,#B43757
 success,
 info,
 warning,
